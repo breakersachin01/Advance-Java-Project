@@ -12,8 +12,8 @@ to independently architect, develop, and deploy end-to-end web solutions.
 ## Features
 -**HomePage**
 <img src="https://github.com/breakersachin01/Advance-Java-Project/blob/main/01HomePage.png" alt="Screenshot 0"/>
-- **Search Student Records**: Allows to print the records in the formate of word or pdf using iTextPDF.
 - **Student Module**
+- **Search Student Records**: Allows to print the records in the formate of word or pdf using iTextPDF.
 - <img src="https://github.com/breakersachin01/Advance-Java-Project/blob/main/02Search-RollNo.png" alt="Screenshot 1"/>
 - **Show Student Record**: 
 - <img src="https://github.com/breakersachin01/Advance-Java-Project/blob/main/03Student-Report-Card%20page.png" alt="Screenshot 5"/>
